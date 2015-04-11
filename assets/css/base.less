@@ -1,0 +1,47 @@
+/* LESS Reference: http://lesscss.org/ */
+@import "bootstrap/bootstrap";
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic);
+
+.main-container {
+
+}
+header { padding: 15px 30px 0 30px; border-bottom: 1px solid @gray-common; position: fixed; top: 0; left: 0; width: 100%; height: 80px;  z-index: 2; background: @body-bg;
+
+  .logo { width: 156px; height: 47px; background: url(../img/logo.png) left top no-repeat; display: block; float: left; }
+
+  .menu-user { float: right;
+
+    .name { color: @gray-dark; position: relative;
+
+      span { font-family: 'Lato', sans-serif; }
+
+      &:before { position: absolute; top: 4px; left: -35px; font-size: 26px; }
+
+    }
+
+    .email { font-family: 'Lato', sans-serif;
+
+      &.dropdown {
+
+        .dropdown-toggle { color: @blueColorBase; text-decoration: none; font-size: @font-size-smaller; border: none; padding-left: 0; background: transparent !important; outline: none; .box-shadow(none); }
+
+        .dropdown-menu { left: -35px; max-width: 150px; }
+
+      }
+
+    }
+
+  }
+
+}
+
+
+/* =================================================
+                HELPER CLASSES
+==================================================*/
+
+.no-padding { padding: 0 !important; }
+.no-padding-sides { padding-left: 0 !important; padding-right: 0 !important; }
+.no-margin { margin: 0 !important; }
+.clear { clear: both; }
+.hidden { display: none; }

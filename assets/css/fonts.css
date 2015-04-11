@@ -1,0 +1,73 @@
+@font-face { /* REGULAR */
+    font-family: 'SCANDBALTR';
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTR.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTR.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTR.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTR.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTR.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTR.svg#SCANDBALTR') format('svg');
+}
+@font-face { /* LIGHT ITALIC */
+    font-family: 'SCANBALTLI';
+    src: url('../fonts/airbaltic_scandinavian/SCANBALTLI.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANBALTLI.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTLI.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTLI.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTLI.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTLI.svg#SCANBALTLI') format('svg');
+}
+@font-face { /* LIGHT */
+    font-family: 'SCANDBALTL';
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTL.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTL.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTL.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTL.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTL.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTL.svg#SCANDBALTL') format('svg');
+}
+@font-face { /* ITALIC */
+    font-family: 'SCANDBALTI';
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTI.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTI.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTI.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTI.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTI.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTI.svg#SCANDBALTI') format('svg');
+}
+@font-face { /* EXTRA LIGHT */
+    font-family: 'SCANDBALTEL';
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTEL.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTEL.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTEL.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTEL.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTEL.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTEL.svg#SCANDBALTEL') format('svg');
+}
+@font-face { /* BLOD ITALIC */
+    font-family: 'SCANBALTBI';
+    src: url('../fonts/airbaltic_scandinavian/SCANBALTBI.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANBALTBI.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTBI.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTBI.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTBI.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANBALTBI.svg#SCANBALTBI') format('svg');
+}
+@font-face { /* BOLD */
+    font-family: 'SCANDBALTB';
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTB.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTB.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTB.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTB.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTB.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTB.svg#SCANDBALTB') format('svg');
+}
+@font-face { /* BLACK */
+    font-family: 'SCANDBALTBL';
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTBL.eot');
+    src: url('../fonts/airbaltic_scandinavian/SCANDBALTBL.eot') format('embedded-opentype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTBL.woff2') format('woff2'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTBL.woff') format('woff'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTBL.ttf') format('truetype'),
+         url('../fonts/airbaltic_scandinavian/SCANDBALTBL.svg#SCANDBALTBL') format('svg');
+}
+
